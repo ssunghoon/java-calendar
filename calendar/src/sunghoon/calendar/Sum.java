@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Sum {
 	public static void main(String[] args) {
 		int a,b;
-		
 		// 입력: 키보드로 두 수의 입력을 받는다.
 		Scanner scanner = new Scanner(System.in);
 		String s1, s2;
